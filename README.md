@@ -8,5 +8,5 @@ the output should be like
 - -5*6*7*14*15*16
 - - - -8*9*12*13
 - - - - - -10*11
-========================
-https://github.com/RuchitaBK/AMCAT_AUTOMATA/blob/master/trapezium_pattern.c
+[Trapezium Pattern](https://github.com/RuchitaBK/AMCAT_AUTOMATA/blob/master/trapezium_pattern.c) 
+
