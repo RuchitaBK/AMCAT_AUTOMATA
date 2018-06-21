@@ -1,9 +1,7 @@
 # AMCAT_AUTOMATA
 Problem statements most likely asked in AMCAT Online Exam .
-
 Problems :
- 1: Amcat Trapezium pattern Solution
-To print the trapezium pattern.
+ 1: To print the trapezium pattern.
  for example , we have num=4
 the output should be like
 1*2*3*4*17*18*19*20
